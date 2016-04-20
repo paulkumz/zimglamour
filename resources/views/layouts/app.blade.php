@@ -24,7 +24,7 @@
             margin-right: 6px;
         }
         .expand-transition{
-            transition:all .3s ease;
+            transition:all .4s ease;
             height: auto;
             overflow: hidden;
         }
