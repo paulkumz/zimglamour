@@ -50,7 +50,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Twitter
+                    Zimglamour
                 </a>
             </div>
 
